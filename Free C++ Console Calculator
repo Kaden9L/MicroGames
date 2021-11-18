@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+  int Num1;
+  int Num2;
+  cin >> Num1;
+  cin >> Num2;
+  cout << "Your answer is" Num1 + Num2 << endl;
+}
